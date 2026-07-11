@@ -1,11 +1,11 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.5.2",
-    "versionCode":  43,
+    "version":  "0.5.3",
+    "versionCode":  44,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.5.2/nexus-0.5.2-install.apk",
-    "sha256":  "F24A751D9E3864B384DD50950B3431263AD2C6FDCC48AC1D609090F7FE964D83",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.5.3/nexus-0.5.3-install.apk",
+    "sha256":  "1ED026560FD007958542D5A937EF8C1B2F17B66F1B9CF06C976C0DDD19CC1F22",
     "notes":  [
                   "Nexus release packaging now defaults to the free GitHub raw manifest and GitHub Releases APK path.",
                   "Update Center now shows feed behind when the installed app is newer than the public release feed.",
@@ -78,5 +78,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-07-12T09:03:19+10:00"
+    "publishedAt":  "2026-07-12T09:34:54+10:00"
 }
