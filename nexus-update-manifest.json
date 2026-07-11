@@ -1,12 +1,16 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.3.7",
-    "versionCode":  28,
+    "version":  "0.3.8",
+    "versionCode":  29,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.3.7/nexus-0.3.7-install.apk",
-    "sha256":  "0F359B5FCEEDFE959521046E8F086D5ED44D6D18BDF2D06A97B928F39D4DC85B",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.3.8/nexus-0.3.8-install.apk",
+    "sha256":  "57A4939B9AE64006407CC425468E82C3E9A00C30BD456AB72E8D0CF39230A770",
     "notes":  [
+                  "Odin Engine now has a truthful tool belt with ready, gated, and planned tools.",
+                  "Odin now selects one tool for each repair cycle and shows the tool plan in Engine Room.",
+                  "Autonomous Odin receipts now record which tool lane was used or gated.",
+                  "Engine Room now shows ready, gated, and planned tool counts without claiming unavailable tools are active.",
                   "Odin Engine now shows mission, objective, neural charge, confidence, autonomy readiness, and proof state.",
                   "Odin now explains what the next autonomous repair cycle will do before it runs.",
                   "Engine Room now has an intelligence panel that makes Odin\u0027s power easier to understand.",
@@ -66,5 +70,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-07-11T17:45:47+10:00"
+    "publishedAt":  "2026-07-11T18:03:29+10:00"
 }
