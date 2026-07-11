@@ -1,12 +1,15 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.3.4",
-    "versionCode":  25,
+    "version":  "0.3.5",
+    "versionCode":  26,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.3.4/nexus-0.3.4-install.apk",
-    "sha256":  "417A330136A0BCA02722C9B30E437E47CE429A4348AD8CA12E9E06D13BBFF2F8",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.3.5/nexus-0.3.5-install.apk",
+    "sha256":  "8434EFF025E8B8B096C1CCE7C45E70BE5F0C3026B52FDA735708C574D1371767",
     "notes":  [
+                  "Odin Engine now has a Live Cycle readout showing current thought, action, repair, and proof in plain language.",
+                  "Engine Room now has direct Strengthen Odin and Scan Odin actions so Odin can visibly work and write local receipts.",
+                  "Odin alive readout now explains what the engine is thinking and acting on before the next hardening cycle.",
                   "Odin Engine now explains itself in plain language: what it is doing, what power means, what is weak, and what to do next.",
                   "Engine Room now has an Odin readout that turns live engine metrics into understandable status lines.",
                   "Odin now produces alive readout lines from its current power, weak point, and next hardening action.",
@@ -57,5 +60,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-07-11T17:02:34+10:00"
+    "publishedAt":  "2026-07-11T17:17:20+10:00"
 }
