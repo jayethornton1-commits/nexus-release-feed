@@ -1,12 +1,15 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.3.0",
-    "versionCode":  21,
+    "version":  "0.3.1",
+    "versionCode":  22,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.3.0/nexus-0.3.0-install.apk",
-    "sha256":  "524D5191D258484267D034EBBC78AC8F4160B417DCFDB3BC624E03E8B08674E0",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.3.1/nexus-0.3.1-install.apk",
+    "sha256":  "745767125DD1E749445630499DAE5C04F12D4EE4B672E4F9E8A2EB6FB35CF73D",
     "notes":  [
+                  "Odin Engine now has a visible cognitive core for perception, working memory, reasoning, tool use, verification, and self repair.",
+                  "Engine Room now shows Odin thought loop, memory cells, and foundation readiness.",
+                  "Odin hardening now treats this engine as the foundation template for future engines.",
                   "Download button is hidden when Nexus is already up to date.",
                   "Last checked status is shown in a compact row.",
                   "Release feed is prepared for stable static hosting.",
@@ -45,5 +48,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-07-11T15:48:45+10:00"
+    "publishedAt":  "2026-07-11T16:24:11+10:00"
 }
