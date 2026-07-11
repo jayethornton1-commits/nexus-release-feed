@@ -1,12 +1,15 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.3.2",
-    "versionCode":  23,
+    "version":  "0.3.3",
+    "versionCode":  24,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.3.2/nexus-0.3.2-install.apk",
-    "sha256":  "A3C0BC9A704DC7E7F9650BA0B60EC0F49D99F4C6C05F28C4FE121BC3C6964C3C",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.3.3/nexus-0.3.3-install.apk",
+    "sha256":  "FB321B3832BCA848EE3F8B542EB18A56F3EDCB1C78F1B8BEA8B3FBF99A48CAA9",
     "notes":  [
+                  "Odin Engine now shows a reactor-style power core with visible output, focus, repair, and growth strength.",
+                  "Odin Core now calculates power output, focus intensity, repair velocity, and growth pressure from live engine state.",
+                  "Engine Room now makes Odin feel more alive with power rings, reactor rays, and a compact power matrix.",
                   "Nexus now has a native Android updater bridge that downloads the APK inside Nexus and opens the install prompt directly.",
                   "Update Nexus now falls back to browser download only when the native updater is unavailable.",
                   "Nexus requests Android package install permission for private APK updates.",
@@ -51,5 +54,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-07-11T16:35:15+10:00"
+    "publishedAt":  "2026-07-11T16:50:12+10:00"
 }
