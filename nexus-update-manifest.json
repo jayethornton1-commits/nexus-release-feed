@@ -1,12 +1,15 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.4.1",
-    "versionCode":  32,
+    "version":  "0.4.9",
+    "versionCode":  40,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.4.1/nexus-0.4.1-install.apk",
-    "sha256":  "CCBF07016B52E09D80C1FCF8E8F03FA9B920B0C745E4147BB04039D2A77C2FF1",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.4.9/nexus-0.4.9-install.apk",
+    "sha256":  "04BDA0D0A27E290A8CFE27D39A3BCD5C502D415C19DA3144B18B4AFD06CAA543",
     "notes":  [
+                  "Nexus release packaging now defaults to the free GitHub raw manifest and GitHub Releases APK path.",
+                  "Update Center now shows feed behind when the installed app is newer than the public release feed.",
+                  "Release package verification now checks that the local manifest and APK target the GitHub feed correctly.",
                   "Odin Tool Belt now shows the exact active tool chain used by the engine.",
                   "Engine Room now separates ready tools from gated, missing, and planned tools.",
                   "Odin autonomous receipts now record the full tool chain and missing tool count.",
@@ -75,5 +78,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-07-11T19:08:03+10:00"
+    "publishedAt":  "2026-07-12T07:54:32+10:00"
 }
