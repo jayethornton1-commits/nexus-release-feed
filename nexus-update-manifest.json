@@ -1,11 +1,11 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.25",
-    "versionCode":  106,
+    "version":  "0.9.26",
+    "versionCode":  107,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.25/nexus-0.9.25-install.apk",
-    "sha256":  "4BAFF97106AE4819BD64337B4CC92B2AFBC3D51BC4E4FF3389ECF62908BAF09E",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.26/nexus-0.9.26-install.apk",
+    "sha256":  "43DEC987A2CCF71F5001F6F3B85009A73CF8FFA7C208EBF4D31C43D4333A9014",
     "notes":  [
                   "Backup Setup now uses a native Android PC Backup Bridge for health checks and backup copy before falling back to WebView fetch.",
                   "Nexus release packaging now defaults to the free GitHub raw manifest and GitHub Releases APK path.",
@@ -79,5 +79,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-07-15T12:21:58+10:00"
+    "publishedAt":  "2026-07-15T12:26:36+10:00"
 }
