@@ -1,12 +1,25 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.40",
-    "versionCode":  121,
+    "version":  "0.9.76",
+    "versionCode":  156,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.40/nexus-0.9.40-install.apk",
-    "sha256":  "7B982EFC344664DF5B1AA30506BF7DC8FE2902A4E8279A47BBD4040F1CC60383",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.76/nexus-0.9.76-install.apk",
+    "sha256":  "862284DBBB8F9B167864A5037D4C014003CD29334620BA483F5F023227406D24",
     "notes":  [
+                  "Nexus now lazy-loads Pantheon Gateway, approvals, utility pages, Hermes Observatory, and Update Center to reduce the initial application bundle and isolate feature failures.",
+                  "Hades Vault now supports encrypted OpenAlex credentials with a redacted, session-only Mimir consumer and a focused secure-intake screen.",
+                  "Mimir can search OpenAlex for source-backed scholarly evidence without persisting the API key, query, or result receipt.",
+                  "Heimdall can load CISA Known Exploited Vulnerabilities from CISA\u0027s official GitHub mirror with validated defensive receipts and fail-closed errors.",
+                  "The high-severity Netlify image parser advisory chain is removed by pinning the last unaffected compatible receipt adapter.",
+                  "Every character room now renders its profile portrait prominently in the room header on desktop and phone layouts.",
+                  "All 15 character rooms now have profile imagery, installed engines, and honest readiness states.",
+                  "Zeus, Amun-Ra, Ares, Poseidon, Gabriel, and Phoenix now have purpose-built working dashboards.",
+                  "Amun-Ra can request on-demand Open-Meteo weather and UV context without storing device coordinates.",
+                  "Hades Vault now uses authenticated AES-256-GCM encryption and session-only secret unlocks.",
+                  "The PC Backup Bridge now fails closed on LAN, requires authenticated health and copy requests, and writes atomic receipts.",
+                  "Nexus now enforces a restrictive content security policy and same-origin executable scripts.",
+                  "Nexus Android now uses current package, usage-access, notification-text, and APK-install APIs while preserving the proven Gmail consent flow.",
                   "Backup Setup now uses a native Android PC Backup Bridge for health checks and backup copy before falling back to WebView fetch.",
                   "Nexus release packaging now defaults to the free GitHub raw manifest and GitHub Releases APK path.",
                   "Update Center now shows feed behind when the installed app is newer than the public release feed.",
@@ -79,5 +92,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-07-15T19:52:41+10:00"
+    "publishedAt":  "2026-08-09T15:13:02+10:00"
 }
