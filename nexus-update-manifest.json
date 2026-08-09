@@ -5,7 +5,7 @@
     "versionCode":  160,
     "channel":  "private-debug",
     "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.80/nexus-0.9.80-install.apk",
-    "sha256":  "22B85E0778F7F97D6E842CABC47B585CCFAA507E5814B37C42F08A6107C2868C",
+    "sha256":  "49C4F1FC064F9E7AFCCE45340BA6C70EBE90EDF463538E01EF71311E66E98651",
     "notes":  [
                   "Backup Setup now distinguishes a saved receiver URL from a live health-checked PC bridge and clears stale ready-state wording.",
                   "The PC bridge installer now accepts a masked token prompt, stores only a DPAPI-protected token, and keeps it out of the scheduled-task command line.",
@@ -95,5 +95,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-09T19:40:22+10:00"
+    "publishedAt":  "2026-08-09T19:41:55+10:00"
 }
