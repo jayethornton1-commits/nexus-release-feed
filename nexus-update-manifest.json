@@ -1,12 +1,13 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.140",
-    "versionCode":  220,
+    "version":  "0.9.141",
+    "versionCode":  221,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.140/nexus-0.9.140-install.apk",
-    "sha256":  "4BEAE6F8C51E2C6287DFA44163DB2FFE4E31438C99182C42B8140DB3EDB68FF9",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.141/nexus-0.9.141-install.apk",
+    "sha256":  "311022FD9063357A7DCF2CE1141B8FCFEBDD9C076063F512393A6C52C3699D59",
     "notes":  [
+                  "Hermes Observatory now uses the native self-audit provenance receipt when the projection snapshot is stale, so source ownership cannot show a false unverified state.",
                   "Hermes standalone verification now requires Android-native source provenance and an explicitly unconfigured PC endpoint; mixed or PC-fed snapshots remain unverified.",
                   "Hermes mobile self-audit now requires complete receipt and Nexus-local read-back coverage for all eight declared Luminaris lanes; partial meshes remain unverified.",
                   "The Luminaris Observatory can now share the exact sanitized native self-audit JSON from the phone, giving physical-device verification a user-controlled handoff without PC storage or NTFY.",
@@ -101,5 +102,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T05:35:51+10:00"
+    "publishedAt":  "2026-08-10T06:05:04+10:00"
 }
