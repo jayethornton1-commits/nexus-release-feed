@@ -1,13 +1,13 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.134",
-    "versionCode":  214,
+    "version":  "0.9.135",
+    "versionCode":  215,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.134/nexus-0.9.134-install.apk",
-    "sha256":  "BA8A54538DB5FB1DF5C0804BC6F20386237468593FAF9D81567DEEF3781EFE8C",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.135/nexus-0.9.135-install.apk",
+    "sha256":  "7D7A2C41AFDCA4AB0E91D37DE753475EE2F1A4918C16B18EB06F136D1783B46F",
     "notes":  [
-                  "Backup Setup now distinguishes a saved receiver URL from a live health-checked PC bridge and clears stale ready-state wording.",
+                  "Hermes and the cellular updater now run through protected Android JobScheduler workers, keeping multi-source background work outside BroadcastReceiver time limits.",
                   "The PC bridge installer now accepts a masked token prompt, stores only a DPAPI-protected token, and keeps it out of the scheduled-task command line.",
                   "Command pages now return to the Pantheon Gateway with truthful route labels, and the Backup Setup surface is covered by a runtime regression guard.",
                   "Nexus keeps the mandatory Update Center and native Hermes Observatory in the initial app graph so cold launches cannot stall behind a lazy chunk; secondary pages remain isolated.",
@@ -95,5 +95,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T03:20:59+10:00"
+    "publishedAt":  "2026-08-10T03:53:10+10:00"
 }
