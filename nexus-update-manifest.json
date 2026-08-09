@@ -1,12 +1,15 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.76",
-    "versionCode":  156,
+    "version":  "0.9.77",
+    "versionCode":  157,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.76/nexus-0.9.76-install.apk",
-    "sha256":  "862284DBBB8F9B167864A5037D4C014003CD29334620BA483F5F023227406D24",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.77/nexus-0.9.77-install.apk",
+    "sha256":  "F945C9B442ABEA64705FA4244D5A91202074A4CFD48C4940D9F120CDC5CF5D7C",
     "notes":  [
+                  "Backup Setup now distinguishes a saved receiver URL from a live health-checked PC bridge and clears stale ready-state wording.",
+                  "The PC bridge installer now accepts a masked token prompt, stores only a DPAPI-protected token, and keeps it out of the scheduled-task command line.",
+                  "Command pages now return to the Pantheon Gateway with truthful route labels, and the Backup Setup surface is covered by a runtime regression guard.",
                   "Nexus now lazy-loads Pantheon Gateway, approvals, utility pages, Hermes Observatory, and Update Center to reduce the initial application bundle and isolate feature failures.",
                   "Hades Vault now supports encrypted OpenAlex credentials with a redacted, session-only Mimir consumer and a focused secure-intake screen.",
                   "Mimir can search OpenAlex for source-backed scholarly evidence without persisting the API key, query, or result receipt.",
@@ -92,5 +95,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-09T15:13:02+10:00"
+    "publishedAt":  "2026-08-09T16:21:25+10:00"
 }
