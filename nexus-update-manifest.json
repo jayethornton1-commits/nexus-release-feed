@@ -10,7 +10,7 @@
                   "Backup Setup now distinguishes a saved receiver URL from a live health-checked PC bridge and clears stale ready-state wording.",
                   "The PC bridge installer now accepts a masked token prompt, stores only a DPAPI-protected token, and keeps it out of the scheduled-task command line.",
                   "Command pages now return to the Pantheon Gateway with truthful route labels, and the Backup Setup surface is covered by a runtime regression guard.",
-                  "Nexus now lazy-loads Pantheon Gateway, approvals, utility pages, Hermes Observatory, and Update Center to reduce the initial application bundle and isolate feature failures.",
+                  "Nexus keeps the mandatory Update Center and native Hermes Observatory in the initial app graph so cold launches cannot stall behind a lazy chunk; secondary pages remain isolated.",
                   "Hades Vault now supports encrypted OpenAlex credentials with a redacted, session-only Mimir consumer and a focused secure-intake screen.",
                   "Mimir can search OpenAlex for source-backed scholarly evidence without persisting the API key, query, or result receipt.",
                   "Heimdall can load CISA Known Exploited Vulnerabilities from CISA\u0027s official GitHub mirror with validated defensive receipts and fail-closed errors.",
