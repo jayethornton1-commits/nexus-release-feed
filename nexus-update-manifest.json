@@ -1,12 +1,13 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.136",
-    "versionCode":  216,
+    "version":  "0.9.137",
+    "versionCode":  217,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.136/nexus-0.9.136-install.apk",
-    "sha256":  "CDE2CC155FBB3F4262791D315E5B7A327F47B60A5F64CA8843F4F21E64BE338C",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.137/nexus-0.9.137-install.apk",
+    "sha256":  "61BEBCFEDFFFE7AD0CBB0A07E0A5BA4DC9B313C4B3540B254B15B5FE0BB903B9",
     "notes":  [
+                  "Native Hermes collection and status reads now refresh the durable self-audit, so a post-update receipt cannot retain the previous installed-version state.",
                   "Hermes now runs a native on-device self-audit and records PC independence, native collection/computation, Nexus-local notifications, cellular updater safety, and the explicit physical-handset evidence boundary.",
                   "A required newer build now opens Update Center as the startup route from both the durable native receipt and the fresh cellular check; the gate cannot be hidden by a remembered Home route.",
                   "Hermes and the cellular updater now run through protected Android JobScheduler workers, keeping multi-source background work outside BroadcastReceiver time limits.",
@@ -97,5 +98,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T04:20:38+10:00"
+    "publishedAt":  "2026-08-10T04:30:44+10:00"
 }
