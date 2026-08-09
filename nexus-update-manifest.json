@@ -1,12 +1,14 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.135",
-    "versionCode":  215,
+    "version":  "0.9.136",
+    "versionCode":  216,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.135/nexus-0.9.135-install.apk",
-    "sha256":  "7D7A2C41AFDCA4AB0E91D37DE753475EE2F1A4918C16B18EB06F136D1783B46F",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.136/nexus-0.9.136-install.apk",
+    "sha256":  "CDE2CC155FBB3F4262791D315E5B7A327F47B60A5F64CA8843F4F21E64BE338C",
     "notes":  [
+                  "Hermes now runs a native on-device self-audit and records PC independence, native collection/computation, Nexus-local notifications, cellular updater safety, and the explicit physical-handset evidence boundary.",
+                  "A required newer build now opens Update Center as the startup route from both the durable native receipt and the fresh cellular check; the gate cannot be hidden by a remembered Home route.",
                   "Hermes and the cellular updater now run through protected Android JobScheduler workers, keeping multi-source background work outside BroadcastReceiver time limits.",
                   "The PC bridge installer now accepts a masked token prompt, stores only a DPAPI-protected token, and keeps it out of the scheduled-task command line.",
                   "Command pages now return to the Pantheon Gateway with truthful route labels, and the Backup Setup surface is covered by a runtime regression guard.",
@@ -95,5 +97,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T03:53:10+10:00"
+    "publishedAt":  "2026-08-10T04:20:38+10:00"
 }
