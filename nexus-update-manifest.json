@@ -1,12 +1,15 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.155",
-    "versionCode":  235,
+    "version":  "0.9.156",
+    "versionCode":  236,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.155/nexus-0.9.155-install.apk",
-    "sha256":  "76C573F6B0EAA8F037A761C54E86EE80FB48E6B946D566EE366C17F78E3B17A4",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.156/nexus-0.9.156-install.apk",
+    "sha256":  "1F19178D4252660B1D9AEDD9FC085502180F16131C534A604FF11BA8CF2F7A65",
     "notes":  [
+                  "Hermes now runs a hash-stamped weakness-directed self-teaching curriculum with eight explicit lessons spanning economics, execution, directional skill, fees, Multi Bets, lane health, venue costs, and autonomous continuity.",
+                  "Each curriculum cycle distinguishes routine operational evidence from genuinely new untouched outcomes; first-run history establishes a baseline and cannot be relabelled as new learning.",
+                  "The native self-audit, physical-device verifier, operational self-awareness receipt, and phone Observatory now require the frozen curriculum while keeping model mutation, backfill, code mutation, profit claims, bets, and live orders sealed.",
                   "Hermes now maintains a hash-stamped operational self-awareness receipt covering all twelve requested capability families, explicit limitations, unknowns, and ranked weakest proof.",
                   "The phone Observatory and physical-device audit now require this self-awareness contract while explicitly rejecting consciousness, profit, prediction-authority, autonomous code-mutation, and live-trading claims.",
                   "Hermes Observatory now orders overlapping native self-audit reads and retries cold-launch hydration boundedly so an older fail-closed result cannot overwrite a newer verified receipt.",
@@ -113,5 +116,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T12:47:39+10:00"
+    "publishedAt":  "2026-08-10T13:23:54+10:00"
 }
