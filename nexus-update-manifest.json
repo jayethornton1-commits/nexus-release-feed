@@ -1,12 +1,15 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.165",
-    "versionCode":  245,
+    "version":  "0.9.166",
+    "versionCode":  246,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.165/nexus-0.9.165-install.apk",
-    "sha256":  "A4907C6D8B5C744D52C2C15333F530E0066C177EAEB688A2D5184D182F3F93CD",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.166/nexus-0.9.166-install.apk",
+    "sha256":  "12F5036261284D9FF705ED0042B7FAB7E845A22CC80466BCA6BCB40EFBF44258",
     "notes":  [
+                  "Android WebView navigation now forces a native-only compositor repaint after route, lane, and connected-room state changes, fixing taps that updated the DOM but left the previous screen visible.",
+                  "All eight Luminaris lane cards and all fourteen same-lane functional-room cards now use explicit verified handlers; room selection moves focus to the active detail panel and announces the selected receipt context.",
+                  "Swipe-based character-room navigation remains removed; the fixed top-left back button is still the only room-exit gesture.",
                   "PC and phone dashboards now require the committed v511 Multis probability-semantics bridge, preventing a stale v510 client from silently accepting the corrected contract.",
                   "The signed Multis v2 receipt separates bookmaker marketConsensusProbabilityPct from independent modelProbabilityPct; all 524 current market-consensus combinations have null independent-model probability and null edge.",
                   "Multis now retains every observed offer up to an explicit 2,000-offer ceiling and fails closed before publication on overflow instead of silently truncating an unreproducible receipt.",
@@ -133,5 +136,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T17:33:33+10:00"
+    "publishedAt":  "2026-08-10T19:08:27+10:00"
 }
