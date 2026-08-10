@@ -1,12 +1,15 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.163",
-    "versionCode":  243,
+    "version":  "0.9.164",
+    "versionCode":  244,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.163/nexus-0.9.163-install.apk",
-    "sha256":  "5B130633CA21D53E3F053CA35F1B98372705AF7E963A9F7BE57E211B72A82307",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.164/nexus-0.9.164-install.apk",
+    "sha256":  "438E775817FCE702D0D39A5B466A4CBFE979F1F24906BAB205408776F54C4BA9",
     "notes":  [
+                  "The phone now computes a hash-bound per-event bookmaker consensus by removing each bookmaker\u0027s overround before averaging probabilities, with dispersion and source count retained for every selection.",
+                  "Mobile odds consensus is explicitly market-probability context only: it is not an independent Hermes model, executable multi price, calibrated edge, expected value, stake, recommendation, execution receipt, or profit proof.",
+                  "The PC Sports collector now refreshes event-bound official context even when player-history evidence is safely cached; 240 of 300 observed Multis combinations gained complete player, statistics, news, and weather bindings and the live Multis foundation rose from 55.6% to 82.2%.",
                   "Hermes can now receive research explicitly shared from GitHub, ChatGPT, Claude, Notion, or another Android app into a private hash-stamped inbox; no app-private data is read automatically.",
                   "Every shared research item remains quarantined for human review with bounded storage, duplicate suppression, and credential-pattern rejection; it cannot train models, become economic proof, recommend a bet, place an order, or move money.",
                   "Hermes now creates a hash-stamped on-device self-build plan that targets the active weakest-proof lesson, permits one bounded proposal, and can correctly decide that no rebuild is justified while untouched outcomes are pending.",
@@ -15,7 +18,7 @@
                   "Hermes now inventories bounded NTFY, Termux, Crypto.com Exchange, calendar, and Android share-sheet handoffs on the phone; app-private data, arbitrary commands, and financial authority remain sealed.",
                   "Hermes can now receive Crypto.com Exchange and Sports Odds credentials through a one-time RSA/AES encrypted USB envelope and store them behind the handset Android Keystore; plaintext secrets never enter the APK, feed, logs, receipts, or history.",
                   "The phone now verifies account tier and exact BTC, ETH, and SOL fee rates using an exact three-method read allowlist with balances, orders, withdrawals, acknowledgements, and fills excluded.",
-                  "Multi Bets now has an Australia-first independent h2h odds source with current bookmaker and quote counts, while calibrated probability, expected value, staking, recommendations, execution, and profit claims remain sealed.",
+                  "Multi Bets now has an Australia-first device-bound h2h odds source with current bookmaker and quote counts, while independent model probability, calibrated edge, expected value, staking, recommendations, execution, and profit claims remain sealed.",
                   "Hermes now runs a hash-stamped weakness-directed self-teaching curriculum with eight explicit lessons spanning economics, execution, directional skill, fees, Multi Bets, lane health, venue costs, and autonomous continuity.",
                   "Each curriculum cycle distinguishes routine operational evidence from genuinely new untouched outcomes; first-run history establishes a baseline and cannot be relabelled as new learning.",
                   "The native self-audit, physical-device verifier, operational self-awareness receipt, and phone Observatory now require the frozen curriculum while keeping model mutation, backfill, code mutation, profit claims, bets, and live orders sealed.",
@@ -125,5 +128,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T16:18:55+10:00"
+    "publishedAt":  "2026-08-10T16:56:47+10:00"
 }
