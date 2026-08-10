@@ -1,15 +1,20 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.164",
-    "versionCode":  244,
+    "version":  "0.9.165",
+    "versionCode":  245,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.164/nexus-0.9.164-install.apk",
-    "sha256":  "438E775817FCE702D0D39A5B466A4CBFE979F1F24906BAB205408776F54C4BA9",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.165/nexus-0.9.165-install.apk",
+    "sha256":  "A4907C6D8B5C744D52C2C15333F530E0066C177EAEB688A2D5184D182F3F93CD",
     "notes":  [
+                  "PC and phone dashboards now require the committed v511 Multis probability-semantics bridge, preventing a stale v510 client from silently accepting the corrected contract.",
+                  "The signed Multis v2 receipt separates bookmaker marketConsensusProbabilityPct from independent modelProbabilityPct; all 524 current market-consensus combinations have null independent-model probability and null edge.",
+                  "Multis now retains every observed offer up to an explicit 2,000-offer ceiling and fails closed before publication on overflow instead of silently truncating an unreproducible receipt.",
+                  "Sports player evidence now reports twelve exact accounting sub-gates and binds AFL statistics-derived roster identities only to their exact AFL competition, preventing NRL rows from crossing receipt authority.",
+                  "Live v511 telemetry verifies all eight isolated rooms as healthy and adaptive while preserving the honest 0/8 untouched-skill result and sealed betting, staking, execution, and live-order authority.",
                   "The phone now computes a hash-bound per-event bookmaker consensus by removing each bookmaker\u0027s overround before averaging probabilities, with dispersion and source count retained for every selection.",
                   "Mobile odds consensus is explicitly market-probability context only: it is not an independent Hermes model, executable multi price, calibrated edge, expected value, stake, recommendation, execution receipt, or profit proof.",
-                  "The PC Sports collector now refreshes event-bound official context even when player-history evidence is safely cached; 240 of 300 observed Multis combinations gained complete player, statistics, news, and weather bindings and the live Multis foundation rose from 55.6% to 82.2%.",
+                  "The PC Sports collector refreshes event-bound official context even when player-history evidence is safely cached; current context coverage remains explicit per combination and incomplete rows continue to lower Multis readiness.",
                   "Hermes can now receive research explicitly shared from GitHub, ChatGPT, Claude, Notion, or another Android app into a private hash-stamped inbox; no app-private data is read automatically.",
                   "Every shared research item remains quarantined for human review with bounded storage, duplicate suppression, and credential-pattern rejection; it cannot train models, become economic proof, recommend a bet, place an order, or move money.",
                   "Hermes now creates a hash-stamped on-device self-build plan that targets the active weakest-proof lesson, permits one bounded proposal, and can correctly decide that no rebuild is justified while untouched outcomes are pending.",
@@ -128,5 +133,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T16:56:47+10:00"
+    "publishedAt":  "2026-08-10T17:33:33+10:00"
 }
