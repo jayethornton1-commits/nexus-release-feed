@@ -1,12 +1,15 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.159",
-    "versionCode":  239,
+    "version":  "0.9.160",
+    "versionCode":  240,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.159/nexus-0.9.159-install.apk",
-    "sha256":  "90B1D74266CA744B9BCD1CACE61CDBF43C8B4CA1FB7C6DD7B3611F7E2F5CDB67",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.160/nexus-0.9.160-install.apk",
+    "sha256":  "28FE954D333CC022F6B0296AAE8B82A5285C557C18EF32B67F59C67CCE901268",
     "notes":  [
+                  "Hermes now creates a hash-stamped on-device self-build plan that targets the active weakest-proof lesson, permits one bounded proposal, and can correctly decide that no rebuild is justified while untouched outcomes are pending.",
+                  "Self-build is now a verified proposal and reviewed-handoff capability, and self-design is operational with rollback and untouched verification required; source mutation, signing, deployment, silent installation, self-promotion, and financial authority remain sealed.",
+                  "The phone app bridge map now includes installed GitHub, ChatGPT, Claude, and Notion handoffs alongside NTFY, Termux, Exchange, calendars, and sharing without reading conversations, repositories, credentials, or private app storage.",
                   "Hermes now inventories bounded NTFY, Termux, Crypto.com Exchange, calendar, and Android share-sheet handoffs on the phone; app-private data, arbitrary commands, and financial authority remain sealed.",
                   "Hermes can now receive Crypto.com Exchange and Sports Odds credentials through a one-time RSA/AES encrypted USB envelope and store them behind the handset Android Keystore; plaintext secrets never enter the APK, feed, logs, receipts, or history.",
                   "The phone now verifies account tier and exact BTC, ETH, and SOL fee rates using an exact three-method read allowlist with balances, orders, withdrawals, acknowledgements, and fills excluded.",
@@ -120,5 +123,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T14:31:12+10:00"
+    "publishedAt":  "2026-08-10T14:44:21+10:00"
 }
