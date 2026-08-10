@@ -1,11 +1,11 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.161",
-    "versionCode":  241,
+    "version":  "0.9.162",
+    "versionCode":  242,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.161/nexus-0.9.161-install.apk",
-    "sha256":  "C215F0DFDDF42671A5A22B6EEF2CBBC57D0D51470103C32F1DA1AD1BD8F2EC0D",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.162/nexus-0.9.162-install.apk",
+    "sha256":  "49087AEAF462A91E74E7EC1FE3868DF5D11A85BA9CC5A19E5E4E660A6C441880",
     "notes":  [
                   "Hermes can now receive research explicitly shared from GitHub, ChatGPT, Claude, Notion, or another Android app into a private hash-stamped inbox; no app-private data is read automatically.",
                   "Every shared research item remains quarantined for human review with bounded storage, duplicate suppression, and credential-pattern rejection; it cannot train models, become economic proof, recommend a bet, place an order, or move money.",
@@ -125,5 +125,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T15:06:43+10:00"
+    "publishedAt":  "2026-08-10T15:27:52+10:00"
 }
