@@ -1,12 +1,14 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.160",
-    "versionCode":  240,
+    "version":  "0.9.161",
+    "versionCode":  241,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.160/nexus-0.9.160-install.apk",
-    "sha256":  "28FE954D333CC022F6B0296AAE8B82A5285C557C18EF32B67F59C67CCE901268",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.161/nexus-0.9.161-install.apk",
+    "sha256":  "C215F0DFDDF42671A5A22B6EEF2CBBC57D0D51470103C32F1DA1AD1BD8F2EC0D",
     "notes":  [
+                  "Hermes can now receive research explicitly shared from GitHub, ChatGPT, Claude, Notion, or another Android app into a private hash-stamped inbox; no app-private data is read automatically.",
+                  "Every shared research item remains quarantined for human review with bounded storage, duplicate suppression, and credential-pattern rejection; it cannot train models, become economic proof, recommend a bet, place an order, or move money.",
                   "Hermes now creates a hash-stamped on-device self-build plan that targets the active weakest-proof lesson, permits one bounded proposal, and can correctly decide that no rebuild is justified while untouched outcomes are pending.",
                   "Self-build is now a verified proposal and reviewed-handoff capability, and self-design is operational with rollback and untouched verification required; source mutation, signing, deployment, silent installation, self-promotion, and financial authority remain sealed.",
                   "The phone app bridge map now includes installed GitHub, ChatGPT, Claude, and Notion handoffs alongside NTFY, Termux, Exchange, calendars, and sharing without reading conversations, repositories, credentials, or private app storage.",
@@ -123,5 +125,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T14:44:21+10:00"
+    "publishedAt":  "2026-08-10T15:06:43+10:00"
 }
