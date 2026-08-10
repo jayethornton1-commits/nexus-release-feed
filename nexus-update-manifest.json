@@ -1,11 +1,11 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.156",
-    "versionCode":  236,
+    "version":  "0.9.157",
+    "versionCode":  237,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.156/nexus-0.9.156-install.apk",
-    "sha256":  "1F19178D4252660B1D9AEDD9FC085502180F16131C534A604FF11BA8CF2F7A65",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.157/nexus-0.9.157-install.apk",
+    "sha256":  "064CA5DA89AEC6F05BC020AEEC277CA3AB9BD875FD6DCB3ACA60C5C07607C5BE",
     "notes":  [
                   "Hermes now runs a hash-stamped weakness-directed self-teaching curriculum with eight explicit lessons spanning economics, execution, directional skill, fees, Multi Bets, lane health, venue costs, and autonomous continuity.",
                   "Each curriculum cycle distinguishes routine operational evidence from genuinely new untouched outcomes; first-run history establishes a baseline and cannot be relabelled as new learning.",
@@ -116,5 +116,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T13:23:54+10:00"
+    "publishedAt":  "2026-08-10T13:32:39+10:00"
 }
