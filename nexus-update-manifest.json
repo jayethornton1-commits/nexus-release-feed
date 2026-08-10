@@ -1,12 +1,18 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.143",
-    "versionCode":  223,
+    "version":  "0.9.153",
+    "versionCode":  233,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.143/nexus-0.9.143-install.apk",
-    "sha256":  "9AD19A77BC358D5D9FC1C7653BED36CA3EFBA11759E1E03D0B6C99068643927A",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.153/nexus-0.9.153-install.apk",
+    "sha256":  "722AA1FA32272C2976A7C53B2F513D4793B04AE44C76E2F4F436753E6440EB89",
     "notes":  [
+                  "Hermes now keeps a bounded hash-stamped autonomous continuity ledger for real phone-side polling attempts, successes, failures, triggers, and observed gaps.",
+                  "Hermes re-arms its persisted market and updater jobs after cold launch, boot, user unlock, and app replacement, and repairs either schedule if Android drops it.",
+                  "The mobile self-audit and physical-device verifier now require autonomous continuity while preserving scheduling-only authority and sealed trading gates.",
+                  "The React, package, and Android version identities are locked by a regression check so future update receipts cannot compare against a stale embedded version.",
+                  "Hermes now freezes one prospective long-or-cash spot economics trial per UTC day and scores it after modeled venue costs against cash and gross BTC/ETH/SOL buy-and-hold.",
+                  "Crypto.com public-book observations now estimate spread, depth, and conservative published-fee hurdles without impersonating account-specific fees, fills, profit, or live readiness.",
                   "Hermes now emits the compact sanitized native self-audit handoff whenever the native audit receipt is rebuilt, allowing a release handset to be audited after cold launch.",
                   "Hermes Observatory now uses the native self-audit provenance receipt when the projection snapshot is stale, so source ownership cannot show a false unverified state.",
                   "Hermes standalone verification now requires Android-native source provenance and an explicitly unconfigured PC endpoint; mixed or PC-fed snapshots remain unverified.",
@@ -103,5 +109,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-10T06:20:06+10:00"
+    "publishedAt":  "2026-08-10T12:03:42+10:00"
 }
