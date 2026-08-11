@@ -1,12 +1,14 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.189",
-    "versionCode":  269,
+    "version":  "0.9.191",
+    "versionCode":  271,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.189/nexus-0.9.189-install.apk",
-    "sha256":  "FA84A5B724EFC1445DD44E7E199D5290BADFE5B6487F87697664E49FAD88AD51",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.191/nexus-0.9.191-install.apk",
+    "sha256":  "75B3C1C5E37D0CFA749EC2BC9E75C97C8A44BEBB62B635CE6527840A1CFE7E67",
     "notes":  [
+                  "The phone functional-room rail now reconciles partial command snapshots against all eight canonical Hermes lanes, so Multi Bets or another lane cannot silently disappear while the native 112-cell mesh remains complete.",
+                  "Physical release certification now honors an explicitly requested, online Samsung Wi-Fi transport even while the same handset is also attached by USB; unrequested multiple-handset ambiguity still fails closed.",
                   "Samsung Wi-Fi updates can now be enrolled without returning to USB: Android\u0027s one-time pairing code is bound to the previously hash-accepted physical Samsung serial, hardware, build fingerprint, and live Android identity before hidden reconnect is armed.",
                   "The wireless bridge accepts exactly one private-LAN ADB TLS handset, reuses an already connected session when mDNS is quiet, and rejects tampered acceptance evidence, another phone, emulator, public endpoint, ambiguous services, or identity drift; Hermes receives no shell or financial authority.",
                   "Hermes now runs a separate four-model prospective learning tournament across BTC, ETH, and SOL, increasing untouched directional evidence collection without changing the incumbent model or accelerating the independent-day clock.",
@@ -183,5 +185,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-11T18:12:11+10:00"
+    "publishedAt":  "2026-08-11T18:52:01+10:00"
 }
