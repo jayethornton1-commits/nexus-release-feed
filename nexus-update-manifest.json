@@ -1,14 +1,19 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.188",
-    "versionCode":  268,
+    "version":  "0.9.189",
+    "versionCode":  269,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.188/nexus-0.9.188-install.apk",
-    "sha256":  "26F8BBC648879CC588C81995E6608657C3DA7FCA7349608A3723998B4E9AA435",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.189/nexus-0.9.189-install.apk",
+    "sha256":  "FA84A5B724EFC1445DD44E7E199D5290BADFE5B6487F87697664E49FAD88AD51",
     "notes":  [
+                  "Samsung Wi-Fi updates can now be enrolled without returning to USB: Android\u0027s one-time pairing code is bound to the previously hash-accepted physical Samsung serial, hardware, build fingerprint, and live Android identity before hidden reconnect is armed.",
+                  "The wireless bridge accepts exactly one private-LAN ADB TLS handset, reuses an already connected session when mDNS is quiet, and rejects tampered acceptance evidence, another phone, emulator, public endpoint, ambiguous services, or identity drift; Hermes receives no shell or financial authority.",
+                  "Hermes now runs a separate four-model prospective learning tournament across BTC, ETH, and SOL, increasing untouched directional evidence collection without changing the incumbent model or accelerating the independent-day clock.",
+                  "Every challenger is frozen before outcomes, starts only after installation, uses deterministic discovery and confirmation UTC-day cohorts, and is evaluated with Bonferroni family-wise error control plus a 98.75% per-model uncertainty floor.",
+                  "A challenger can become human-review eligible only after passing sample, day, symbol, direction, baseline, and multiplicity-adjusted uncertainty gates in both cohorts; automatic promotion, model mutation, recommendations, bets, orders, economic proof, and live authority remain sealed.",
                   "Hermes now parses and SHA-256 validates each retained mobile-history row once per learning cycle, then shares a centrally constructed read-only row view with source-health learning, prospective skill, venue-cost research, and prospective economics instead of reparsing the same multi-megabyte ledger four times.",
-                  "The mobile learning receipt exposes single-pass-row-hash-v1, exact validated and rejected prior-row counts, one parse pass, and all four bounded consumers; native and external strict audits fail closed if validation is skipped, duplicated, incomplete, or rejects any row.",
+                  "The mobile learning receipt exposes single-pass-row-hash-v1, exact validated and rejected prior-row counts, one parse pass, and all five bounded consumers; native and external strict audits fail closed if validation is skipped, duplicated, incomplete, or rejects any row.",
                   "Legacy direct learner entry points still route through the same central row-hash validator, while retention, quarantine, checkpoint, paper-only, read-only, no-live-order, immutable-model, and economic-proof boundaries remain unchanged.",
                   "The performance governor now keeps the last fully completed hash-valid receipt authoritative while a new poll is in flight; a partial begin-state can no longer overwrite completed evidence or make strict self-audit fail spuriously.",
                   "History integrity repair now uses an exact SHA-256, byte-size, modification-time, installed-version, and self-test-bound checkpoint fast path, avoiding a full retained-history JSON reparse when every sealed input still matches.",
@@ -178,5 +183,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-11T17:26:13+10:00"
+    "publishedAt":  "2026-08-11T18:12:11+10:00"
 }
