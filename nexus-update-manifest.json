@@ -1,11 +1,11 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.198",
-    "versionCode":  278,
+    "version":  "0.9.199",
+    "versionCode":  279,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.198/nexus-0.9.198-install.apk",
-    "sha256":  "FAD2821ED03239B031B9940498F44BB0195458C7AE02F0D21165D4B92A0712E9",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.199/nexus-0.9.199-install.apk",
+    "sha256":  "8F91B14177C6FD791611EFBC8E961D9FD2AA30F037440A3FFD19F6F6DE6695D8",
     "notes":  [
                   "The phone functional-room rail now reconciles partial command snapshots against all eight canonical Hermes lanes, so Multi Bets or another lane cannot silently disappear while the native 112-cell mesh remains complete.",
                   "Physical release certification now honors an explicitly requested, online Samsung Wi-Fi transport even while the same handset is also attached by USB; unrequested multiple-handset ambiguity still fails closed.",
@@ -185,5 +185,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-12T07:33:15+10:00"
+    "publishedAt":  "2026-08-12T09:09:31+10:00"
 }
