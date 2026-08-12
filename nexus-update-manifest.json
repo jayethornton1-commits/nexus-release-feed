@@ -1,11 +1,11 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.212",
-    "versionCode":  292,
+    "version":  "0.9.213",
+    "versionCode":  293,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.212/nexus-0.9.212-install.apk",
-    "sha256":  "1BE7CCFDB4796E689A2DD01AEF6F67D5850BF658EDBCB5BDC5DDDA759226AA49",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.213/nexus-0.9.213-install.apk",
+    "sha256":  "EBD45F267D2AB41B27F50C71B074A7A1F15445722325A29D3853BD7B1D7ED4C7",
     "notes":  [
                   "Simple mode now opens without Home/Away, developer, or Life360 setup controls. Those controls live together in the Advanced private room and remain local to the phone.",
                   "Nexus can foreground-open the installed Life360 app only after your tap, so Jay can complete Life360\u0027s own sign-in. Nexus never receives or retains its password, verification code, coordinates, maps, routes, or family trail.",
@@ -188,5 +188,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-13T07:15:38+10:00"
+    "publishedAt":  "2026-08-13T07:19:15+10:00"
 }
