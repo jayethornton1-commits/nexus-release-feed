@@ -1,6 +1,6 @@
 {
   "schema": "nexus-character-update-manifest-v1",
-  "generatedAt": "2026-08-12T20:02:35.678Z",
+  "generatedAt": "2026-08-12T20:10:32.664Z",
   "channel": "private",
   "userDownloadRequired": true,
   "apps": {
@@ -130,7 +130,7 @@
       "versionCode": 12,
       "extractionComplete": false,
       "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.10/hermes-0.2.10-install.apk",
-      "sha256": "C1C72B00B1ABA9C98607BA4C1CDC5B063B4F80BCD69AB3A1F2E128C83B857ED5",
+      "sha256": "A53BA69D0BE71DCA099DFDD6A3C06232FE34EDF2ADCF93D5577169F62917DCF1",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
