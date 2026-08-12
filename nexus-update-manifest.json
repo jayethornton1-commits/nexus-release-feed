@@ -1,12 +1,15 @@
 {
     "appId":  "app.nexus.personal",
     "name":  "Nexus",
-    "version":  "0.9.201",
-    "versionCode":  281,
+    "version":  "0.9.204",
+    "versionCode":  284,
     "channel":  "private-debug",
-    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.201/nexus-0.9.201-install.apk",
-    "sha256":  "1A071CAEC22A92C697B1A5270C847DE1BF1154F8547AB0578516C627D83EF424",
+    "apkUrl":  "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/v0.9.204/nexus-0.9.204-install.apk",
+    "sha256":  "467E103E131A45D31E3A886686C3A47BB36641A60B0CA1044685F75C80E968F4",
     "notes":  [
+                  "Simple mode now opens without Home/Away, developer, or Life360 setup controls. Those controls live together in the Advanced private room and remain local to the phone.",
+                  "Nexus can foreground-open the installed Life360 app only after your tap, so Jay can complete Life360\u0027s own sign-in. Nexus never receives or retains its password, verification code, coordinates, maps, routes, or family trail.",
+                  "The performance display now keeps the last hash-valid completed seven-stage native audit visible while a new poll is in flight; incomplete runtime begin-states cannot replace that timing map.",
                   "The phone functional-room rail now reconciles partial command snapshots against all eight canonical Hermes lanes, so Multi Bets or another lane cannot silently disappear while the native 112-cell mesh remains complete.",
                   "Physical release certification now honors an explicitly requested, online Samsung Wi-Fi transport even while the same handset is also attached by USB; unrequested multiple-handset ambiguity still fails closed.",
                   "Samsung Wi-Fi updates can now be enrolled without returning to USB: Android\u0027s one-time pairing code is bound to the previously hash-accepted physical Samsung serial, hardware, build fingerprint, and live Android identity before hidden reconnect is armed.",
@@ -185,5 +188,5 @@
                   "Engine Room now condenses nervous system, learning loop, autonomic loop, and repair queue into one stronger live panel.",
                   "Focused hardening receipts now record Odin living state alongside core score, pulse, nervous load, and weakest lane."
               ],
-    "publishedAt":  "2026-08-12T15:30:17+10:00"
+    "publishedAt":  "2026-08-12T16:13:43+10:00"
 }
