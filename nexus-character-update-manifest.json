@@ -1,6 +1,6 @@
 {
   "schema": "nexus-character-update-manifest-v1",
-  "generatedAt": "2026-08-13T06:30:47.799Z",
+  "generatedAt": "2026-08-13T09:59:55.731Z",
   "channel": "private",
   "userDownloadRequired": true,
   "apps": {
@@ -126,11 +126,11 @@
     },
     "app.hermes.luminaris": {
       "characterId": "hermes",
-      "version": "0.2.37",
-      "versionCode": 39,
+      "version": "0.2.38",
+      "versionCode": 40,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.37-hermes/hermes-0.2.37-install.apk",
-      "sha256": "40EF6B61826E7BA6DA2D6E94F4A494B5DD66144B9DEB2341C4E205DC38690083",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.38-hermes/hermes-0.2.38-install.apk",
+      "sha256": "7E9DF362082B03E61596A75A21D7539E4C19683D67CDD5BE8F00F2E477D09E3E",
       "notes": [
         "Hermes package-local paper runtime and bounded public observation release.",
         "Paper-only, read-only, with no credentials, live orders, bets, financial authority, automatic download, or automatic installation.",
