@@ -1,6 +1,6 @@
 {
   "schema": "nexus-character-update-manifest-v1",
-  "generatedAt": "2026-08-13T05:03:33.400Z",
+  "generatedAt": "2026-08-13T05:59:54.038Z",
   "channel": "private",
   "userDownloadRequired": true,
   "apps": {
@@ -126,14 +126,15 @@
     },
     "app.hermes.luminaris": {
       "characterId": "hermes",
-      "version": "0.2.35",
-      "versionCode": 37,
+      "version": "0.2.36",
+      "versionCode": 38,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.35/hermes-0.2.35-install.apk",
-      "sha256": "70E7DB48BC78AFC26CE0B1DFCD62880E3774B8BE0A97D2586C89DDD06EC97706",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.36-hermes/hermes-0.2.36-install.apk",
+      "sha256": "57E8BF7ACBBBAD4D1D3301C6307694A3A4EBF89C2DDEC958C16FAEC37C00E9FA",
       "notes": [
-        "Private standalone character app release.",
-        "Download and Android installation remain owner-confirmed."
+        "Hermes package-local paper runtime and bounded public observation release.",
+        "Paper-only, read-only, with no credentials, live orders, bets, financial authority, automatic download, or automatic installation.",
+        "Hermes extraction is not complete; Nexus remains source-retained until the full recovery and handset gates are evidenced."
       ]
     },
     "app.nexus.asclepius": {
