@@ -1,16 +1,16 @@
 {
   "schema": "nexus-character-update-manifest-v1",
-  "generatedAt": "2026-08-13T00:19:41.792Z",
+  "generatedAt": "2026-08-13T00:39:36.699Z",
   "channel": "private",
   "userDownloadRequired": true,
   "apps": {
     "app.nexus.odin": {
       "characterId": "odin",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/odin-0.2.22-install.apk",
-      "sha256": "E9011D8DCC3488F0CDED27835357160D47FC3DE54708BAA358B3EC49872144A4",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/odin-0.2.23-install.apk",
+      "sha256": "1CE97A7F4C532E794AC309DA88C8A65BE1CB4A5189A530D7A46D83C42C910240",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -18,11 +18,11 @@
     },
     "app.nexus.zeus": {
       "characterId": "zeus",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/zeus-0.2.22-install.apk",
-      "sha256": "8370ADE8A9CCA89C3571E0625DE1DF7870389745AD342BF8330F4694E6EEA4AC",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/zeus-0.2.23-install.apk",
+      "sha256": "B530F79E01EDAB9C4420A67BC8B2355B08753212447D1B4AABB19EDD1D7BC23D",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -30,11 +30,11 @@
     },
     "app.nexus.amunra": {
       "characterId": "amun-ra",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/amunra-0.2.22-install.apk",
-      "sha256": "03284D8606F69652E3398708677C6AF85AD4B84C0B40F8D70B14A65C5F1EB997",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/amunra-0.2.23-install.apk",
+      "sha256": "B0B7F4ED0A9BFB73995FEB3009E2D5F8FF5A278E77B7DEFB3BEEFFBC8525DADA",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -42,11 +42,11 @@
     },
     "app.nexus.architect": {
       "characterId": "architect",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/architect-0.2.22-install.apk",
-      "sha256": "A97CD0BA950DC8FD00523470653C5533D70362B365A37ECDBCD3B9C68F5745E3",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/architect-0.2.23-install.apk",
+      "sha256": "EB28A9E67E400DBDA486C623F84E52F9E9745BB4B55BB03AD831F88690A7DB09",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -54,11 +54,11 @@
     },
     "app.nexus.heimdall": {
       "characterId": "heimdall",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/heimdall-0.2.22-install.apk",
-      "sha256": "B1302BFA9D3E05469CF3DDDA5E3C374D0F2B384911A4F2E7F2988232216990F5",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/heimdall-0.2.23-install.apk",
+      "sha256": "7BE86EC9A3054B491A770007E30562CDAA67B2EBBB36443ACD80955079CF4236",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -66,11 +66,11 @@
     },
     "app.nexus.hades": {
       "characterId": "hades",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/hades-0.2.22-install.apk",
-      "sha256": "065517C7053BEA6989B72168656FFF9E4A84042D78E747FFBB62F6D7CB4CBDB9",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/hades-0.2.23-install.apk",
+      "sha256": "3BED96AF5362FAD4E661C2918A71B514405A85C3B819B22DE22CDB3A86631583",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -78,11 +78,11 @@
     },
     "app.nexus.ares": {
       "characterId": "ares",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/ares-0.2.22-install.apk",
-      "sha256": "B4456DDB9521ED67346E096F534F40FE226C0983EF2FC957E84814BF45759491",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/ares-0.2.23-install.apk",
+      "sha256": "23AF8FC4D6EA816F88D59B65F7BF87251F830E778D19B69D16E5DD6D5519DEC5",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -90,11 +90,11 @@
     },
     "app.nexus.poseidon": {
       "characterId": "poseidon",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/poseidon-0.2.22-install.apk",
-      "sha256": "EE44305238A21F82673047713E53114CA70BDB449BA268626F1436FB6A2A1A52",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/poseidon-0.2.23-install.apk",
+      "sha256": "15E2364FF98AA1015D0A91B56D77B7EF0A60224A95E6BEECFBF1EB5376BF9D34",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -102,11 +102,11 @@
     },
     "app.nexus.gabriel": {
       "characterId": "gabriel",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/gabriel-0.2.22-install.apk",
-      "sha256": "E3C899DC260D970256DF19D5961EF0F95D49FA9AE1795CA10FC33CEA2FCF0CEE",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/gabriel-0.2.23-install.apk",
+      "sha256": "DB8EC84CC872300D290C8F2E3E066669052B045CF79C0BD6F9E18BA62BD3184A",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -114,11 +114,11 @@
     },
     "app.nexus.phoenix": {
       "characterId": "phoenix",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/phoenix-0.2.22-install.apk",
-      "sha256": "47B851F26D06421B81BD2557744D1211DDAE63AFDD2171DE1C73AC7CBDC6C885",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/phoenix-0.2.23-install.apk",
+      "sha256": "6324C29283E5096DA1A143020CFC2F145FC02F05B30EE54424860390F3025660",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -126,11 +126,11 @@
     },
     "app.hermes.luminaris": {
       "characterId": "hermes",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/hermes-0.2.22-install.apk",
-      "sha256": "695BA21361C81651345AEFC7FF4328366488D3B2E8C1DBB9626C67B13D079A69",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/hermes-0.2.23-install.apk",
+      "sha256": "EE0380007D027E658BC37D5B6DF4D027D4A584F855FDC018CA771ECD0B66315C",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -138,11 +138,11 @@
     },
     "app.nexus.asclepius": {
       "characterId": "asclepius",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/asclepius-0.2.22-install.apk",
-      "sha256": "CEEEE1C46F5420FFFDB8DEA077FD93527C162C6E4A10041B0D69F087E0129C5F",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/asclepius-0.2.23-install.apk",
+      "sha256": "FF11FDB7F95677E4DAAFA3B3CF0A363931D1853F111A7E73D7FF321DC9D2734A",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -150,11 +150,11 @@
     },
     "app.nexus.eir": {
       "characterId": "eir",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/eir-0.2.22-install.apk",
-      "sha256": "EE08C213337CFBCA7700BC699668E65F8154643E0350D912C68A57440B224F6E",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/eir-0.2.23-install.apk",
+      "sha256": "AD69D218263193D74E9A1C2FD78D13C67205F76F3BBD5859BE451BFF5EC9DC0E",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -162,11 +162,11 @@
     },
     "app.nexus.mimir": {
       "characterId": "mimir",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/mimir-0.2.22-install.apk",
-      "sha256": "1525B09E23D66385E068D7469FCD6DE07D14275F0D263507BEE81CCE797AAD08",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/mimir-0.2.23-install.apk",
+      "sha256": "189D8D13683DC84E0E058D9E6A718D7EE028F42CA2F69A90B470DC0BAC7C66E1",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
@@ -174,11 +174,11 @@
     },
     "app.nexus.bifrost": {
       "characterId": "bifrost",
-      "version": "0.2.22",
-      "versionCode": 24,
+      "version": "0.2.23",
+      "versionCode": 25,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.22/bifrost-0.2.22-install.apk",
-      "sha256": "BFACA9FB0D7DE5EA05B1B3944D3EC352FC8C4470F07246BD28995BB14CEE35E7",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.23/bifrost-0.2.23-install.apk",
+      "sha256": "CCAD7E5ABF897A7A1561FA8C54FDFD98253AE75D165BAD4A4605D277439A6BFC",
       "notes": [
         "Private standalone character app release.",
         "Download and Android installation remain owner-confirmed."
