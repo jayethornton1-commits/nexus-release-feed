@@ -1,6 +1,6 @@
 {
   "schema": "nexus-character-update-manifest-v1",
-  "generatedAt": "2026-08-14T09:42:09.880Z",
+  "generatedAt": "2026-08-14T10:09:13.136Z",
   "channel": "private",
   "userDownloadRequired": true,
   "apps": {
@@ -163,15 +163,15 @@
     },
     "app.nexus.mimir": {
       "characterId": "mimir",
-      "version": "0.2.43",
-      "versionCode": 45,
+      "version": "0.2.44",
+      "versionCode": 46,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.43-mimir/mimir-0.2.43-install.apk",
-      "sha256": "B1D877114C228AD6DD502FE22B30F463B14D3BB1EA83D91F24E77666AE89FF79",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.44-mimir/mimir-0.2.44-install.apk",
+      "sha256": "FAB435BBCCBB02D509EE5D1A5193D7E8ABB0B03F462C4CC66576DAE41EF3AFF9",
       "notificationPolicy": "feed-detected-owner-notification",
       "installFlow": "owner-tap-verified-download",
       "notes": [
-        "Mimir signed research-engine upgrade: an all-character heartbeat now traverses every peer health route, counts weak or missing receipts, and chooses the next owner-reviewed research target across scholarly, biomedical, citation-graph, and public-context lanes.",
+        "Mimir signed research-engine upgrade: adaptive intelligence now ranks every open weakness, chooses a lane/query strategy, and explains why the next research target outranks the rest after the all-character heartbeat.",
         "The installed app will notify only after this exact feed entry is published and checked.",
         "Download and Android installation remain owner-confirmed."
       ]
