@@ -1,6 +1,6 @@
 {
   "schema": "nexus-character-update-manifest-v1",
-  "generatedAt": "2026-08-14T08:40:41.913Z",
+  "generatedAt": "2026-08-14T09:24:14.231Z",
   "channel": "private",
   "userDownloadRequired": true,
   "apps": {
@@ -163,15 +163,15 @@
     },
     "app.nexus.mimir": {
       "characterId": "mimir",
-      "version": "0.2.41",
-      "versionCode": 43,
+      "version": "0.2.42",
+      "versionCode": 44,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.41-mimir/mimir-0.2.41-install.apk",
-      "sha256": "1D20E95EFEBF4833C8784343BD70F5213A2F1DBB86D758DE0BE438E24409D8C7",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.42-mimir/mimir-0.2.42-install.apk",
+      "sha256": "52FA5D2E7FAEFADD1304981D5CF3F879BABAD7D72F5808CA83FDA2FF4EAB343A",
       "notificationPolicy": "feed-detected-owner-notification",
       "installFlow": "owner-tap-verified-download",
       "notes": [
-        "Mimir signed research-engine upgrade: explicit scholarly, biomedical, citation-graph, and public-context research lanes with normalized evidence ranking.",
+        "Mimir signed research-engine upgrade: dedicated research rooms for every peer character across scholarly, biomedical, citation-graph, and public-context lanes.",
         "The installed app will notify only after this exact feed entry is published and checked.",
         "Download and Android installation remain owner-confirmed."
       ]
