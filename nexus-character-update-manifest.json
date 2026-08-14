@@ -171,7 +171,7 @@
       "notificationPolicy": "feed-detected-owner-notification",
       "installFlow": "owner-tap-verified-download",
       "notes": [
-        "Mimir signed research-engine upgrade: peer-health intake and proposal-only improvement coordination.",
+        "Mimir signed research-engine upgrade: bounded OpenAlex + Crossref research pack, normalized evidence ranking, and proposal-only improvement coordination.",
         "The installed app will notify only after this exact feed entry is published and checked.",
         "Download and Android installation remain owner-confirmed."
       ]
