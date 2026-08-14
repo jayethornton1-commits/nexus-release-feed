@@ -1,6 +1,6 @@
 {
   "schema": "nexus-character-update-manifest-v1",
-  "generatedAt": "2026-08-13T09:59:55.731Z",
+  "generatedAt": "2026-08-14T06:31:53.020Z",
   "channel": "private",
   "userDownloadRequired": true,
   "apps": {
@@ -163,13 +163,16 @@
     },
     "app.nexus.mimir": {
       "characterId": "mimir",
-      "version": "0.2.35",
-      "versionCode": 37,
+      "version": "0.2.37",
+      "versionCode": 39,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.35/mimir-0.2.35-install.apk",
-      "sha256": "678CE384A5BBF4AC07AA159F90AEC700C525911250F39930F3B75502A5ABEFED",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.37-mimir/mimir-0.2.37-install.apk",
+      "sha256": "EBC66315413F3A8F9D62088F13557E26260D305BBDA1344E9F207125770B902A",
+      "notificationPolicy": "feed-detected-owner-notification",
+      "installFlow": "owner-tap-verified-download",
       "notes": [
-        "Private standalone character app release.",
+        "Mimir signed research-engine upgrade: peer-health intake and proposal-only improvement coordination.",
+        "The installed app will notify only after this exact feed entry is published and checked.",
         "Download and Android installation remain owner-confirmed."
       ]
     },
