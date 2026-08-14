@@ -1,6 +1,6 @@
 {
   "schema": "nexus-character-update-manifest-v1",
-  "generatedAt": "2026-08-14T09:24:14.231Z",
+  "generatedAt": "2026-08-14T09:42:09.880Z",
   "channel": "private",
   "userDownloadRequired": true,
   "apps": {
@@ -163,15 +163,15 @@
     },
     "app.nexus.mimir": {
       "characterId": "mimir",
-      "version": "0.2.42",
-      "versionCode": 44,
+      "version": "0.2.43",
+      "versionCode": 45,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.42-mimir/mimir-0.2.42-install.apk",
-      "sha256": "52FA5D2E7FAEFADD1304981D5CF3F879BABAD7D72F5808CA83FDA2FF4EAB343A",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.43-mimir/mimir-0.2.43-install.apk",
+      "sha256": "B1D877114C228AD6DD502FE22B30F463B14D3BB1EA83D91F24E77666AE89FF79",
       "notificationPolicy": "feed-detected-owner-notification",
       "installFlow": "owner-tap-verified-download",
       "notes": [
-        "Mimir signed research-engine upgrade: dedicated research rooms for every peer character across scholarly, biomedical, citation-graph, and public-context lanes.",
+        "Mimir signed research-engine upgrade: an all-character heartbeat now traverses every peer health route, counts weak or missing receipts, and chooses the next owner-reviewed research target across scholarly, biomedical, citation-graph, and public-context lanes.",
         "The installed app will notify only after this exact feed entry is published and checked.",
         "Download and Android installation remain owner-confirmed."
       ]
