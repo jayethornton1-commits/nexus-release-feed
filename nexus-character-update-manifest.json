@@ -1,6 +1,6 @@
 {
   "schema": "nexus-character-update-manifest-v1",
-  "generatedAt": "2026-08-14T06:41:40.109Z",
+  "generatedAt": "2026-08-14T06:49:48.379Z",
   "channel": "private",
   "userDownloadRequired": true,
   "apps": {
@@ -163,11 +163,11 @@
     },
     "app.nexus.mimir": {
       "characterId": "mimir",
-      "version": "0.2.37",
-      "versionCode": 39,
+      "version": "0.2.38",
+      "versionCode": 40,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.37-mimir/mimir-0.2.37-install.apk",
-      "sha256": "042C54A80B63FAE05A55EC8F17B7C8C1ED32CDC5088947776F661BE6F698C8F2",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.38-mimir/mimir-0.2.38-install.apk",
+      "sha256": "B3750D3717EA8DB07781837DD8D4ABD9B09C04D2F78DABAACD074FA6A476F677",
       "notificationPolicy": "feed-detected-owner-notification",
       "installFlow": "owner-tap-verified-download",
       "notes": [
