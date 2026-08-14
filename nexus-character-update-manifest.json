@@ -1,6 +1,6 @@
 {
   "schema": "nexus-character-update-manifest-v1",
-  "generatedAt": "2026-08-14T10:09:13.136Z",
+  "generatedAt": "2026-08-14T10:54:01.201Z",
   "channel": "private",
   "userDownloadRequired": true,
   "apps": {
@@ -163,15 +163,15 @@
     },
     "app.nexus.mimir": {
       "characterId": "mimir",
-      "version": "0.2.44",
-      "versionCode": 46,
+      "version": "0.2.45",
+      "versionCode": 47,
       "extractionComplete": false,
-      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.44-mimir/mimir-0.2.44-install.apk",
-      "sha256": "FAB435BBCCBB02D509EE5D1A5193D7E8ABB0B03F462C4CC66576DAE41EF3AFF9",
+      "apkUrl": "https://github.com/jayethornton1-commits/nexus-release-feed/releases/download/characters-v0.2.45-mimir/mimir-0.2.45-install.apk",
+      "sha256": "C680C2D3BFFFDA7FDF6D8D6249A4C1BC538DAFF16B64CABDA7672AA9EBA56AAC",
       "notificationPolicy": "feed-detected-owner-notification",
       "installFlow": "owner-tap-verified-download",
       "notes": [
-        "Mimir signed research-engine upgrade: adaptive intelligence now ranks every open weakness, chooses a lane/query strategy, and explains why the next research target outranks the rest after the all-character heartbeat.",
+        "Mimir signed research-engine upgrade: explicit understanding dossiers now cover every character's mission, needs, success signals, evidence state, and safest support mode before adaptive research planning.",
         "The installed app will notify only after this exact feed entry is published and checked.",
         "Download and Android installation remain owner-confirmed."
       ]
